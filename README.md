@@ -1,0 +1,1 @@
+# Arduino-Trinket-SM12x-Magnetometer-Interface
